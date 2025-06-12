@@ -328,8 +328,17 @@ footer{
 }
 @media (min-width: 0px) and (max-width: 1200px) {
 	body{
-		width: 50%;
+		width: 100%;
 	}
+	.promo{
+		height: 500px;}
+	.advantages{
+		height: 400px;
+	}
+	.product{
+		height: 200px;
+	}
+	.
 	.logo{
 		width: 30%;
 	}
