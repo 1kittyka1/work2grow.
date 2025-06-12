@@ -328,7 +328,7 @@ footer{
 }
 @media screen and (min-width: 0px) and (max-width: 1200px){
 	body{
-		width: 100%;
+		width: 50%;
 	}
 	.logo{
 		width: 30%;
